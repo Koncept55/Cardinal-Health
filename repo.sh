@@ -1,4 +1,4 @@
 #!/bin/bash
 
-STRING="Hello World"
+STRING="Hello Bosslady"
 echo$STRING
